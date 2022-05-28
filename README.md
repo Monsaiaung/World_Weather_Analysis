@@ -16,3 +16,12 @@ Deliverable 3: Create a Travel Itinerary Map
 Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
 
 The link is the result of performing an API call with the OpenWeatherMap and retrieving the current weather description of each city. [Weather_Data]( https://github.com/Monsaiaung/World_Weather_Analysis/blob/30bd592de561ffba13a3493c8317f88216aef244/Weather_Data/WeatherPy_Database.csv)
+
+### Deliverable 2: Create a Customer Travel Destinations Map
+
+![WeatherPy_Vacation_Map](https://github.com/Monsaiaung/World_Weather_Analysis/blob/6a86259fd70c8282dd234390c37a3ec16e058515/Vacation_Search/WeatherPy_vacation_map.png)
+
+### Deliverable 3: Create a Travel Itinerary Map
+
+![1](https://github.com/Monsaiaung/World_Weather_Analysis/blob/6a86259fd70c8282dd234390c37a3ec16e058515/Vacation_Itinerary/WeatherPy_travel_map.png)
+![2](https://github.com/Monsaiaung/World_Weather_Analysis/blob/6a86259fd70c8282dd234390c37a3ec16e058515/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
